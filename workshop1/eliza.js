@@ -43,6 +43,7 @@ var rules = {
   "~*x name ~*y": [
     "I am not interested in names",
     
+  ],
   "~*x kpop ~*y": [
     "I love 2NE1",
   ],
